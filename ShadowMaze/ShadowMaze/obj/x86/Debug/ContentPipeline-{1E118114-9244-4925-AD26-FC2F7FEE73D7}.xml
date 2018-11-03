@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Node.png</Source>
+      <Name>Sprites\Node</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\Node.xnb</Output>
+      <Time>2017-02-28T17:50:24.5551396+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\stw.png</Source>
+      <Name>Sprites\stw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\stw.xnb</Output>
+      <Time>2017-01-24T17:35:24.7333971+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bld.png</Source>
+      <Name>Sprites\bld</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\bld.xnb</Output>
+      <Time>2017-02-14T07:36:54.8219749+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\frt.png</Source>
+      <Name>Sprites\frt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\frt.xnb</Output>
+      <Time>2017-02-14T07:39:21.0581371+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\tre.png</Source>
+      <Name>Sprites\tre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\tre.xnb</Output>
+      <Time>2017-02-05T09:58:46.7275417+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\wtr.png</Source>
+      <Name>Sprites\wtr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\wtr.xnb</Output>
+      <Time>2017-01-27T19:59:52.620325+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\grs.png</Source>
+      <Name>Sprites\grs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\grs.xnb</Output>
+      <Time>2017-01-30T18:49:17.507446+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Button.png</Source>
+      <Name>Sprites\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\Button.xnb</Output>
+      <Time>2017-02-02T15:34:24.8977716+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Rain.png</Source>
+      <Name>Sprites\Rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\Rain.xnb</Output>
+      <Time>2017-02-01T20:20:54.8624048+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ButtonShort.png</Source>
+      <Name>Sprites\ButtonShort</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\ButtonShort.xnb</Output>
+      <Time>2017-02-03T12:15:49.6639455+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ButtonLeft.png</Source>
+      <Name>Sprites\ButtonLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\ButtonLeft.xnb</Output>
+      <Time>2017-02-04T23:15:26.9077962+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ButtonRight.png</Source>
+      <Name>Sprites\ButtonRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\ButtonRight.xnb</Output>
+      <Time>2017-02-04T23:15:33.8770254+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\lbm.png</Source>
+      <Name>Sprites\lbm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\lbm.xnb</Output>
+      <Time>2017-02-14T07:29:37.8437445+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Star.png</Source>
+      <Name>Sprites\Star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\Star.xnb</Output>
+      <Time>2017-02-14T23:30:53.0904101+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Background.png</Source>
+      <Name>Sprites\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\Background.xnb</Output>
+      <Time>2017-02-28T18:16:46.8514536+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ShadowCopySprite.png</Source>
+      <Name>Sprites\ShadowCopySprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\ShadowCopySprite.xnb</Output>
+      <Time>2017-03-13T18:39:34.8142294+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\drk.png</Source>
+      <Name>Sprites\drk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\drk.xnb</Output>
+      <Time>2017-02-28T20:25:00.4487235+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PlayerSprite.png</Source>
+      <Name>Sprites\PlayerSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\PlayerSprite.xnb</Output>
+      <Time>2017-03-13T18:10:38.088293+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Help.png</Source>
+      <Name>Sprites\Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\Sprites\Help.xnb</Output>
+      <Time>2017-03-05T14:42:14.2642562+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFonts\fontSettings.spritefont</Source>
+      <Name>SpriteFonts\fontSettings</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SpriteFonts\fontSettings.xnb</Output>
+      <Time>2017-04-08T17:18:54.8838163+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFonts\fontSelection.spritefont</Source>
+      <Name>SpriteFonts\fontSelection</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SpriteFonts\fontSelection.xnb</Output>
+      <Time>2017-04-08T17:18:54.6494259+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFonts\fontLarge.spritefont</Source>
+      <Name>SpriteFonts\fontLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SpriteFonts\fontLarge.xnb</Output>
+      <Time>2017-04-08T17:18:54.8057344+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFonts\fontGame.spritefont</Source>
+      <Name>SpriteFonts\fontGame</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SpriteFonts\fontGame.xnb</Output>
+      <Time>2017-04-08T17:18:54.8369361+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFonts\fontPause.spritefont</Source>
+      <Name>SpriteFonts\fontPause</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SpriteFonts\fontPause.xnb</Output>
+      <Time>2017-04-08T17:18:54.7119285+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFonts\fontMenu.spritefont</Source>
+      <Name>SpriteFonts\fontMenu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SpriteFonts\fontMenu.xnb</Output>
+      <Time>2017-04-08T17:18:54.7745776+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Button.wav</Source>
+      <Name>SoundEffects\Button</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SoundEffects\Button.xnb</Output>
+      <Time>2017-02-27T14:57:35.6959697+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\drk.wav</Source>
+      <Name>SoundEffects\drk</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SoundEffects\drk.xnb</Output>
+      <Time>2017-02-27T16:40:54.3624021+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\bld.wav</Source>
+      <Name>SoundEffects\bld</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SoundEffects\bld.xnb</Output>
+      <Time>2017-02-27T16:52:07.9745832+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Damage.wav</Source>
+      <Name>SoundEffects\Damage</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SoundEffects\Damage.xnb</Output>
+      <Time>2017-02-27T18:19:09.2879262+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\lbm.wav</Source>
+      <Name>SoundEffects\lbm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SoundEffects\lbm.xnb</Output>
+      <Time>2017-02-27T18:21:33.1217846+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\frt.wav</Source>
+      <Name>SoundEffects\frt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SoundEffects\frt.xnb</Output>
+      <Time>2017-02-27T18:50:57.3637193+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Rain.wav</Source>
+      <Name>SoundEffects\Rain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\SoundEffects\Rain.xnb</Output>
+      <Time>2017-02-28T19:32:26.6527363+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1E118114-9244-4925-AD26-FC2F7FEE73D7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMazeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\ShadowMaze\ShadowMaze\ShadowMaze\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-15T06:39:52.5163685+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
